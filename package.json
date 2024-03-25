@@ -1,0 +1,23 @@
+{
+  "name": "abdulnabi-cli-number-guessing-game",
+  "version": "1.0.0",
+  "description": "This is simple CLI based numbers guessing game.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "numbers-guessing",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Numbers_Guessing_game",
+    "simple_game"
+  ],
+  "author": "Abdul Nabi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
